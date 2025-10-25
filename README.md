@@ -8,6 +8,8 @@ It focuses on analyzing and improving **Power System Stability and Control**, co
 - Analyzes rotor angle, speed deviation, and power flow under disturbances.  
 - Useful for power system stability and dynamic performance studies.  
 📎 [View on MATLAB Central](https://in.mathworks.com/matlabcentral/fileexchange/180609-transient-stability-analysis-of-single-machine-infinite-bus)
+Cite As
+Prem Manoj Mule (2025). Transient stability analysis of single machine infinite bus. (https://in.mathworks.com/matlabcentral/fileexchange/180609-transient-stability-analysis-of-single-machine-infinite-bus), MATLAB Central File Exchange. Retrieved October 25, 2025.
 
 ---
 
@@ -16,7 +18,8 @@ It focuses on analyzing and improving **Power System Stability and Control**, co
 - Minimizes steady-state frequency error and improves dynamic response.  
 - Demonstrates tie-line power exchange and inter-area coordination.  
 📎 [View on MATLAB Central](https://in.mathworks.com/matlabcentral/fileexchange/180870-three-area-lfc-model-with-integral-control-in-simulink)
-
+Cite As
+Prem Manoj Mule (2025). Three-Area LFC Model with Integral Control in Simulink. (https://in.mathworks.com/matlabcentral/fileexchange/180870-three-area-lfc-model-with-integral-control-in-simulink), MATLAB Central File Exchange. Retrieved October 25, 2025.
 ---
 
 ### ⚙️ Requirements
